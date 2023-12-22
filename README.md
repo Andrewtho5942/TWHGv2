@@ -1,1 +1,1 @@
-This is for locally testing an educational game called River City Reborn.
+This is for locally testing a game I made called The World's Hardest Game v2.
